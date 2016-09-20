@@ -1,2 +1,2 @@
 # HELLO-WORLD
-just another repository
+qazi muhammad repository
